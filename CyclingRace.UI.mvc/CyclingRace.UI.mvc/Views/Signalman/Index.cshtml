@@ -1,0 +1,24 @@
+﻿@model IList<Signalman>
+@{
+    ViewData["Title"] = "Signalmen";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<a class="btn btn-primary" asp-action="Create">New Signalman</a>
+
+<table class="table table-striped table-dark">
+    <thead>
+        <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var signalman in Model)
+        {
+            <partial name="RowPartial" model="signalman" />
+        }
+    </tbody>
+</table>

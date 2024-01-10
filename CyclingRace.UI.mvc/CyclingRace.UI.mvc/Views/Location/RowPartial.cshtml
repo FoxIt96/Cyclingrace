@@ -1,0 +1,14 @@
+﻿@model Location
+
+<tr>
+    <td>@Model.Name</td>
+    <td>@Model.Description</td>
+    <td>@Model.Address</td>
+
+    <td>
+        <div>
+            <a class="btn btn-success" asp-action="Edit" asp-route-id="@Model.Id">Edit</a>
+            <a class="btn btn-danger" asp-action="Delete" asp-route-id="@Model.Id">Delete</a>
+        </div>
+    </td>
+</tr>

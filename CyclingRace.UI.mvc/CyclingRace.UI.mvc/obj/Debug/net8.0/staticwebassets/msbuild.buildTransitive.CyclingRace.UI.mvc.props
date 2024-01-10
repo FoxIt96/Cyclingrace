@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CyclingRace.UI.mvc.props" />
+</Project>

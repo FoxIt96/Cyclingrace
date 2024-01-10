@@ -1,0 +1,20 @@
+﻿@model Location
+
+@{
+    ViewData["Title"] = $"Edit {Model?.Name} {Model?.Address}";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form method="post">
+    <partial name="CreateEditPartial" model="Model" />
+
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>
+
+@section Scripts
+{
+    <partial name="_ValidationScriptsPartial" />
+}
+
+

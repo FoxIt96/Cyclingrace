@@ -1,0 +1,17 @@
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\CyclingRace.UI.mvc\CyclingRace.Services\bin\Debug\net8.0\CyclingRace.Services.deps.json
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\CyclingRace.UI.mvc\CyclingRace.Services\bin\Debug\net8.0\CyclingRace.Services.dll
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\CyclingRace.UI.mvc\CyclingRace.Services\bin\Debug\net8.0\CyclingRace.Services.pdb
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\CyclingRace.UI.mvc\CyclingRace.Services\bin\Debug\net8.0\CyclingRace.Core.dll
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\CyclingRace.UI.mvc\CyclingRace.Services\bin\Debug\net8.0\CyclingRace.Model.dll
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\CyclingRace.UI.mvc\CyclingRace.Services\bin\Debug\net8.0\CyclingRace.Core.pdb
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\CyclingRace.UI.mvc\CyclingRace.Services\bin\Debug\net8.0\CyclingRace.Model.pdb
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\CyclingRace.UI.mvc\CyclingRace.Services\obj\Debug\net8.0\CyclingRace.Services.csproj.AssemblyReference.cache
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\CyclingRace.UI.mvc\CyclingRace.Services\obj\Debug\net8.0\CyclingRace.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\CyclingRace.UI.mvc\CyclingRace.Services\obj\Debug\net8.0\CyclingRace.Services.AssemblyInfoInputs.cache
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\CyclingRace.UI.mvc\CyclingRace.Services\obj\Debug\net8.0\CyclingRace.Services.AssemblyInfo.cs
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\CyclingRace.UI.mvc\CyclingRace.Services\obj\Debug\net8.0\CyclingRace.Services.csproj.CoreCompileInputs.cache
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\CyclingRace.UI.mvc\CyclingRace.Services\obj\Debug\net8.0\CyclingRace.Services.csproj.CopyComplete
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\CyclingRace.UI.mvc\CyclingRace.Services\obj\Debug\net8.0\CyclingRace.Services.dll
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\CyclingRace.UI.mvc\CyclingRace.Services\obj\Debug\net8.0\refint\CyclingRace.Services.dll
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\CyclingRace.UI.mvc\CyclingRace.Services\obj\Debug\net8.0\CyclingRace.Services.pdb
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\CyclingRace.UI.mvc\CyclingRace.Services\obj\Debug\net8.0\ref\CyclingRace.Services.dll

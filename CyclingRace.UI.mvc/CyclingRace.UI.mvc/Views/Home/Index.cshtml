@@ -1,0 +1,41 @@
+﻿<h2>Overzicht</h2>
+
+<table class="table table-striped table-dark">
+    <thead>
+    <tr>
+        <th>Seingever Naam</th>
+        <th>Locatie Naam</th>
+        <th>Locatie Beschrijving</th> 
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var signalman in ViewBag.Signalmen)
+    {
+        <tr>
+            <td><a asp-controller="Signalman" asp-action="Edit" asp-route-id="@signalman.Id">@signalman.FirstName @signalman.LastName</a></td>
+
+            <td>
+                @if (signalman.Locatie != null)
+                {
+                    <a asp-controller="Location" asp-action="Edit" asp-route-id="@signalman.Locatie.Id">@signalman.Locatie.Name</a>
+                }
+                else
+                {
+                    <p>Unassigned</p>
+                }
+            </td>
+
+            <td>
+                @if (signalman.Locatie != null)
+                {
+                    @signalman.Locatie.Description
+                }
+                else
+                {
+                    <p>N/A</p>
+                }
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

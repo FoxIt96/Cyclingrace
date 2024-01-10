@@ -1,0 +1,12 @@
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\CyclingRace.UI.mvc\CyclingRace.Model\bin\Debug\net8.0\CyclingRace.Model.deps.json
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\CyclingRace.UI.mvc\CyclingRace.Model\bin\Debug\net8.0\CyclingRace.Model.dll
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\CyclingRace.UI.mvc\CyclingRace.Model\bin\Debug\net8.0\CyclingRace.Model.pdb
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\CyclingRace.UI.mvc\CyclingRace.Model\obj\Debug\net8.0\CyclingRace.Model.csproj.AssemblyReference.cache
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\CyclingRace.UI.mvc\CyclingRace.Model\obj\Debug\net8.0\CyclingRace.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\CyclingRace.UI.mvc\CyclingRace.Model\obj\Debug\net8.0\CyclingRace.Model.AssemblyInfoInputs.cache
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\CyclingRace.UI.mvc\CyclingRace.Model\obj\Debug\net8.0\CyclingRace.Model.AssemblyInfo.cs
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\CyclingRace.UI.mvc\CyclingRace.Model\obj\Debug\net8.0\CyclingRace.Model.csproj.CoreCompileInputs.cache
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\CyclingRace.UI.mvc\CyclingRace.Model\obj\Debug\net8.0\CyclingRace.Model.dll
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\CyclingRace.UI.mvc\CyclingRace.Model\obj\Debug\net8.0\refint\CyclingRace.Model.dll
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\CyclingRace.UI.mvc\CyclingRace.Model\obj\Debug\net8.0\CyclingRace.Model.pdb
+E:\OneDrive - Hogeschool VIVES\2e jaar\Web development 2\oefenen examen semester 1\CyclingRace.UI.mvc\CyclingRace.Model\obj\Debug\net8.0\ref\CyclingRace.Model.dll
